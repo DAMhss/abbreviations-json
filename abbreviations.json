@@ -1,5 +1,6 @@
 [
   {"short":"AMV","definition":"Association des Maires des Vosges"},
+  {"short":"ANCV","definition":"Agence Nationale pour les Chèques Vacances"},
   {"short":"AR","definition":"Accusé de Réception"},
   {"short":"CA","definition":"Conseil d’Administration ou Congés Annuels"},
   {"short":"CM","definition":"Conseil Municipal"},
@@ -10,6 +11,10 @@
   {"short":"RH","definition":"Ressources Humaines"},
   {"short":"DDT","definition":"Direction Départementale des Territoires"},
   {"short":"EPCI","definition":"Établissement Public de Coopération Intercommunale"},
+  {"short":"FNAL","definition":"Fond National d'Aide au logement"},
+  {"short":"FNGIR","definition":"Fond National de Garantie Individuelle des Ressources"},
+  {"short":"FPU","Fiscalité Professionnelle Unique"},
+  {"short":"DGFIP","definition":"Direction Générale des Finances Publiques"},
   {"short":"SDIS","definition":"Service Départemental d’Incendie et de Secours"},
   {"short":"ANC","definition":"Assainissement Non Collectif"},
   {"short":"EP","definition":"Eaux Pluviales"},
