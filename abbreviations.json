@@ -13,7 +13,7 @@
   {"short":"EPCI","definition":"Établissement Public de Coopération Intercommunale"},
   {"short":"FNAL","definition":"Fond National d'Aide au logement"},
   {"short":"FNGIR","definition":"Fond National de Garantie Individuelle des Ressources"},
-  {"short":"FPU","Fiscalité Professionnelle Unique"},
+  {"short":"FPU","definition":"Fiscalité Professionnelle Unique"},
   {"short":"DGFIP","definition":"Direction Générale des Finances Publiques"},
   {"short":"SDIS","definition":"Service Départemental d’Incendie et de Secours"},
   {"short":"ANC","definition":"Assainissement Non Collectif"},
